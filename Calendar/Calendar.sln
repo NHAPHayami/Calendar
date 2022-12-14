@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A388F946-EDB9-4A80-82A8-F4DE36E5DDFF}"
+	ProjectSection(SolutionItems) = preProject
+		Calendar_Hayamiuki.html = Calendar_Hayamiuki.html
+		Script1.js = Script1.js
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCBB784E-F6F0-45F9-80C4-2FA6FE3CD624}
+	EndGlobalSection
+EndGlobal
